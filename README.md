@@ -7,7 +7,8 @@ This is a project  from data science bootcamp of big blue data academy.The goal 
 # Files
 The project consists of the following files:
 
-Temperaure_Change.pbix: The Power BI file containing the visualizations, data model, and report for the analysis.
-temperature_change.csv: The CSV file containing the temperature change data.
-co2_emissions.csv: The CSV file containing the CO2 emissions data.
-Temperaure_Change_Report: The Pdf file containing the visualizations
+- Temperaure_Change.pbix: The Power BI file containing the visualizations, data model, and report for the analysis.
+- NoFlag.csv: The CSV file containing the temperature change data.
+- Codes.csv: The CSV file containing the codes of temperature change data.
+- CO2_Emissions_1960-2018.csv: The CSV file containing the CO2 emissions data.
+- Temperaure_Change_Report: The Pdf file containing the visualizations
